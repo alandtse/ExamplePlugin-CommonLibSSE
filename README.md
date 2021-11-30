@@ -17,7 +17,7 @@ These must be completed for any later steps to work.
 
 ## Building
 ```
-git clone https://github.com/Ryan-rsm-McKenzie/ExamplePlugin-CommonLibSSE
+git clone https://github.com/alandtse/ExamplePlugin-CommonLibSSE.git
 cd ExamplePlugin-CommonLibSSE
 ```
 ### CommonLibSSE or CommonLibVR
